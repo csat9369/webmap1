@@ -4,9 +4,9 @@
 
 ## warum wir GIT verwenden 
 
-*Teamfähig
-*backup
-*zurück zu älteren Versionen
+* Teamfähig
+* backup
+* zurück zu älteren Versionen
 
 
 ## Nächster Kurs HTML 
