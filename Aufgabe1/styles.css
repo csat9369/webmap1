@@ -1,0 +1,81 @@
+ body > h1{
+	 font-size: 8em; 
+	color: #FF0000;
+	background-color: #00FFFF;
+	text-decoration: underline;
+ }	
+
+ h1:hover {color: #53ff1a}
+ 
+ p{
+	 
+	 font-family: Vivaldi;
+	 font-size: 3em;
+	
+	 
+	 
+	 
+	 
+ }
+ 
+ body:hover{background-color: #0066ff}
+body{
+	text-align:center;
+	background-color: #cc00ff;
+	
+}
+video{}
+
+
+figcaption{
+	
+padding: 10 400 10 400
+
+    margin:auto;
+
+    border-color: #FF0000;
+    border-style: solid; 
+    border-width: 7px;
+    border-radius: 10px;
+	
+	
+	
+	
+}
+
+
+div{
+    text-align:center;
+    margin:auto;
+    height: 70px;
+    width: 250px; 
+    border-color: #6495ED;
+    background-color:#8904B1; 
+    border-style: solid; 
+    border-width: 4px;
+    border-radius: 5px;
+    }
+	
+iframe{
+	
+height: 800px;
+width:	1200px;
+	
+	
+	
+}
+
+#sammelsurium {text-decoration: underline;}
+
+a{
+    text-decoration: none; 
+    color: #FF0000;
+    font-family: sans-serif;
+    margin: center;
+    }
+a:hover {
+	color: blue;
+	font-weight: bold;
+}
+
+
